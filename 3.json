@@ -1,6 +1,7 @@
 {
     "name": "Silver Coin",
     "description": "This is a silver coin.",
+    "abbreviation": "SLV",
     "image": "https://raw.githubusercontent.com/PenguinPraxis/Blockchain/main/Silver.png",
     "attributes": [
       {

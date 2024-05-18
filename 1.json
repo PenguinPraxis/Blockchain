@@ -1,6 +1,7 @@
 {
     "name": "Diamond Coin",
     "description": "This is a diamond coin.",
+    "abbreviation": "DMD",
     "image": "https://raw.githubusercontent.com/PenguinPraxis/Blockchain/main/Diamond.png",
     "attributes": [
       {

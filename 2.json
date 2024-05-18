@@ -1,6 +1,7 @@
 {
     "name": "Gold Coin",
     "description": "This is a gold coin.",
+    "abbreviation": "GLD",
     "image": "https://raw.githubusercontent.com/PenguinPraxis/Blockchain/main/Gold.png",
     "attributes": [
       {

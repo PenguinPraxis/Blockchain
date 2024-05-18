@@ -1,6 +1,7 @@
 {
     "name": "Copper Coin",
     "description": "This is a copper coin.",
+    "abbreviation": "CPR",
     "image": "https://raw.githubusercontent.com/PenguinPraxis/Blockchain/main/Copper.png",
     "attributes": [
       {
