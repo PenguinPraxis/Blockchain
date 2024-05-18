@@ -1,0 +1,15 @@
+{
+    "name": "Copper Coin",
+    "description": "This is a copper coin.",
+    "image": "https://raw.githubusercontent.com/PenguinPraxis/Blockchain/main/Copper.png",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "common"
+      },
+      {
+        "trait_type": "material",
+        "value": "copper"
+      }
+    ]
+  }

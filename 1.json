@@ -1,0 +1,15 @@
+{
+    "name": "Diamond Coin",
+    "description": "This is a diamond coin.",
+    "image": "https://raw.githubusercontent.com/PenguinPraxis/Blockchain/main/Diamond.png",
+    "attributes": [
+      {
+        "trait_type": "rarity",
+        "value": "legendary"
+      },
+      {
+        "trait_type": "material",
+        "value": "diamond"
+      }
+    ]
+  }
